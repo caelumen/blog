@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/windflex-sjlee/blog/sitemap.xml
+Host: https://github.com
